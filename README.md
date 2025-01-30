@@ -1,3 +1,4 @@
+![5827833818659276883](https://github.com/user-attachments/assets/a34176a6-5ef4-4934-9184-00cf868dbea5)
 📌 About the Project
 
 This E-Learning Platform is a web application that facilitates online learning for instructors and students. It allows instructors to create courses, groups, exams, and online meetings, while students can enroll, study, take exams, and track their progress. The platform also includes a payment system for course subscriptions
