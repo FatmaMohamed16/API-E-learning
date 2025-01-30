@@ -1,4 +1,3 @@
-![5827833818659276883](https://github.com/user-attachments/assets/a34176a6-5ef4-4934-9184-00cf868dbea5)
 📌 About the Project
 
 This E-Learning Platform is a web application that facilitates online learning for instructors and students. It allows instructors to create courses, groups, exams, and online meetings, while students can enroll, study, take exams, and track their progress. The platform also includes a payment system for course subscriptions
@@ -30,6 +29,7 @@ Backend (API) 🖥️
     SQL Server (Database)
     JWT Authentication (Security)
     Payment Gateway Integration (PayPal)![5827833818659276883](https://github.com/user-attachments/assets/92481da5-4e61-483d-af88-1724ff302016)
+![5827833818659276883](https://github.com/user-attachments/assets/bf3dbc5a-1344-47a9-b892-6248cc862b3d)
 ![5827833818659276884](https://github.com/user-attachments/assets/f6c1afb4-5069-4b48-b8ae-04c2e813fe1b)
 ![2025-01-30 (6)](https://github.com/user-attachments/assets/17c24094-7707-49e1-900c-a6c293e94971)
 ![2025-01-30 (5)](https://github.com/user-attachments/assets/dd56d92d-df8c-4300-94bb-4def340ac66b)
